@@ -12,3 +12,11 @@ My TensorFlow templates for quick application of ML.
 
 ------
 
+### TensorBoard Visualizations: Embedding - Images
+
+<a href="https://colab.research.google.com/github/RGivisiez/TensorFlow-Templates/blob/main/TensorBoard_Visualizations.ipynb\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"/></a>
+
+1. Save images.
+2. Save embeddings.
+3. Save confusion matrix.
+------
