@@ -3,7 +3,7 @@ My TensorFlow templates for quick application of ML.
 
 ### Basic: Sequential - API - CallBacks - TensorBoard:
 
-<a href="https://colab.research.google.com/github/RGivisiez/TensorFlow-Templates/blob/main/Basic_Sequential_API_CallBacks_TensorBoard.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"/></a>
+<a href="https://colab.research.google.com/github/RGivisiez/TensorFlow-Templates/blob/main/Basic_Sequential_API_CallBacks_TensorBoard.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. Model: Sequential.
 2. Model: Functional API.
@@ -14,9 +14,19 @@ My TensorFlow templates for quick application of ML.
 
 ### TensorBoard Visualizations: Embedding - Images
 
-<a href="https://colab.research.google.com/github/RGivisiez/TensorFlow-Templates/blob/main/TensorBoard_Visualizations.ipynb\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"/></a>
+<a href="https://colab.research.google.com/github/RGivisiez/TensorFlow-Templates/blob/main/TensorBoard_Visualizations.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. Save images.
 2. Save embeddings.
 3. Save confusion matrix.
+------
+
+### Tensorflow Prepocessing Layers
+<a href="https://colab.research.google.com/github/RGivisiez/TensorFlow-Templates/blob/main/Tensorflow_Prepocessing_Layers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+1. Normalization layer.
+2. Discretization layer.
+3. Categorical encoding layer.
+4. One-hot enconding layer
 ------
